@@ -1,3 +1,9 @@
+/*	Yazar: Emre Tantu
+	C Ýle Code Challenge Level 1 Youtube Oynatma Listesi: https://www.youtube.com/playlist?list=PLp9TmtRYg7ZCxaA-lLc2x8r6-MSQG5u7x
+	Problemin Tanýtýldýðý YouTube Videosu: https://youtu.be/4SZPLXArE3g
+	Ýlgili YouTube Videosu: https://youtu.be/_JySt3O0MQc
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

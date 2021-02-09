@@ -1,3 +1,9 @@
+/*	Yazar: Emre Tantu
+	C Ýle Code Challenge Level 1 Youtube Oynatma Listesi: https://www.youtube.com/playlist?list=PLp9TmtRYg7ZCxaA-lLc2x8r6-MSQG5u7x
+	Problemin Tanýtýldýðý YouTube Videosu: https://youtu.be/3Q9n7ZTOk3o
+	Ýlgili YouTube Videosu: https://youtu.be/rtG1-dLJNXA
+*/
+
 // a, b, c 
 
 // |b - c| < a < b + c
